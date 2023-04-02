@@ -1,0 +1,9 @@
+<resources>
+    <string name="paired_devices">Paired devices</string>
+    <string name="search_devices">Search devices…</string>
+    <string name="empty">Empty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bluetooth_is_on">Bluetooth is on!</string>
+    <string name="bluetooth_is_off">Bluetooth is off!</string>
+</resources>
